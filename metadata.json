@@ -1,0 +1,5 @@
+{
+  "name": "Flight Data Lookup Tool",
+  "description": "A web application to search and filter flight data sourced from a published Google Sheet. The design is inspired by Vietnam Airlines' branding.",
+  "requestFramePermissions": []
+}
